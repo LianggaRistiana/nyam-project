@@ -3,13 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MarginAll.List"
     android:id="@+id/cv_food"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginStart="8dp"
-    android:layout_marginTop="4dp"
-    android:layout_marginEnd="8dp"
-    android:layout_marginBottom="4dp"
     card_view:cardCornerRadius="16dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -28,30 +25,25 @@
 
         <TextView
             android:id="@+id/tv_title"
+            style="@style/TitleCard.Margin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginTop="8dp"
             card_view:layout_constraintEnd_toEndOf="parent"
             card_view:layout_constraintStart_toStartOf="parent"
-            card_view:layout_constraintTop_toBottomOf="@+id/img_item"
+            card_view:layout_constraintTop_toBottomOf="@id/img_item"
             tools:text="@string/card_name" />
 
         <TextView
             android:id="@+id/tvdesc"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginTop="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginBottom="8dp"
+            style="@style/TextContent.MarginAll"
             card_view:layout_constraintBottom_toBottomOf="parent"
             card_view:layout_constraintEnd_toEndOf="parent"
-            card_view:layout_constraintEnd_toTopOf="parent"
             card_view:layout_constraintStart_toStartOf="parent"
             card_view:layout_constraintTop_toBottomOf="@id/tv_title"
-            tools:text="@string/card_desc" />
+            tools:text="@string/card_desc"
+            android:maxLines="1"
+            android:ellipsize="marquee"
+            />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

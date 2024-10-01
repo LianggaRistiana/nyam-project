@@ -3,7 +3,7 @@
     <string name="card_name">card name</string>
     <string name="card_desc">card description name</string>
 
-    <string-array name="data_name">
+    <string-array name="data_title">
         <item>Nasi Goreng</item>
         <item>Bakso</item>
         <item>Mie Ayam</item>
@@ -17,6 +17,11 @@
         </item>
     </string-array>
 
+    <string-array name="data_photo">
+        <item>@drawable/nasi_goreng_photo</item>
+        <item>@drawable/mie_goreng_photo</item>
+        <item>@drawable/bakso_photo</item>
+    </string-array>
 
 
 </resources>
