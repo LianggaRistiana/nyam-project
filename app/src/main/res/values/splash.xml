@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AnimatedSplash.Mysplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/grey</item>
+        <item name="postSplashScreenTheme">@style/Theme.Nyamproject</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/nyam_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>"
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/nyam_logo</item>-->
+    </style>
+</resources>
