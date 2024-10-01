@@ -18,24 +18,48 @@
         <item>Burger</item>
     </string-array>
 
+
     <string-array name="data_desc">
         <item>Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis. Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu. Sebagai hidangan buatan rumah, nasi goreng biasanya dibuat dengan bahan-bahan yang tersisa dari hidangan lainnya, yang berujung pada ragam yang tak terbatas. Menjadi penopang ekonomi, hal yang sama juga terjadi pada mi goreng atau pyttipanna
         </item>
         <item>Mi goreng berarti "mi yang digoreng" adalah hidangan mi yang dimasak dengan digoreng tumis khas Indonesia. Mi goreng juga populer dan juga digemari di Malaysia, dan Singapura. Mi goreng terbuat dari mi kuning yang digoreng dengan sedikit minyak goreng, dan ditambahkan bawang putih, bawang merah, udang serta daging ayam atau daging sapi, irisan bakso, cabai, sayuran, tomat, telur ayam, dan acar. Makanan ini sangat populer dan dapat ditemui di mana-mana di Indonesia, mulai dari pedagang pinggir jalan (kaki lima) sampai restoran mewah. Mi goreng juga dapat ditemukan di warung mamak di Malaysia dan Singapura.
         </item>
-        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang, kambing, bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur lalu ditaburi bawang goreng dan seledri.
-Bakso sangat populer dan dapat ditemukan di seluruh Indonesia, dari gerobak pedagang kaki lima hingga restoran besar. Berbagai jenis bakso sekarang banyak ditawarkan dalam bentuk makanan beku yang dijual di pasar swalayan ataupun mal-mal. Irisan bakso dapat juga dijadikan pelengkap jenis makanan lain seperti mi goreng, nasi goreng, sop atau capcai.
+        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang, kambing, bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur lalu ditaburi bawang goreng dan seledri.Bakso sangat populer dan dapat ditemukan di seluruh Indonesia, dari gerobak pedagang kaki lima hingga restoran besar. Berbagai jenis bakso sekarang banyak ditawarkan dalam bentuk makanan beku yang dijual di pasar swalayan ataupun mal-mal. Irisan bakso dapat juga dijadikan pelengkap jenis makanan lain seperti mi goreng, nasi goreng, sop atau capcai.
         </item>
+        <item>
+            Rendang adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.Rendang dapat dijumpai di rumah makan Padang di seluruh dunia. Masakan ini populer di Indonesia dan negara-negara Asia Tenggara lainnya, seperti Malaysia, Singapura, Brunei, Filipina, dan Thailand. Di daerah asalnya, Minangkabau, rendang disajikan di berbagai upacara adat dan perhelatan istimewa. Meskipun rendang merupakan masakan tradisional Minangkabau, teknik memasak serta pilihan dan penggunaan bumbu rendang berbeda-beda menurut daerah.
+
+        </item>
+        <item>
+            Gulai alias Gule adalah Masakan Indonesia berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah yang bercita rasa gurih yang berasal dari Sumatra, Indonesia. Ciri khas gulai adalah bumbunya yang kaya rempah antara lain kunyit, ketumbar, lada, lengkuas, jahe, cabai merah, bawang merah, bawang putih, adas, pala, serai, kayu manis, dan jintan yang dihaluskan, dicampur, kemudian dimasak dalam santan. Masakan ini yang memiliki ciri khas berwarna kuning karena pengaruh sari kunyit. Makanan ini dianggap sebagai bentuk lain dari kari, dan secara internasional sering disebut sebagai kari ala Indonesia meskipun dalam seni kuliner Indonesia juga ditemukan kari.
+        </item>
+        <item>
+            Sate Lilit adalah sebuah varian sate asal Bali. Sate ini terbuat dari daging babi, ikan, ayam, daging sapi, atau bahkan kura-kura yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica. Daging cincang yang telah berbumbu dilekatkan pada sebuah bambu atau tebu, kemudian dipanggang di atas arang. Tidak seperti sate lainnya yang dibuat dengan tusuk sate yang sempit dan tajam, tusuk sate lilit berbentuk datar dan lebar. Permukaan yang lebih luas memungkinkan daging cincang untuk melekat. Istilah lilit dalam bahasa Bali dan Indonesia berarti  membungkus , yang sesuai untuk cara pembuatan sate ini.</item>
+        <item>
+            Bakwan adalah makanan gorengan yang terbuat dari sayuran dan tepung terigu yang lazim ditemukan di Indonesia Bakwan biasanya merujuk kepada kudapan gorengan sayur-sayuran yang biasa dijual oleh penjaja keliling. Bahannya terdiri atas taoge, irisan kubis (kol) atau irisan wortel, dicampur dalam adonan tepung terigu dan digoreng dalam minyak goreng yang cukup banyak. Dalam bahasa Sunda, bakwan disebut bala-bala atau yéyé serta dalam bahasa Sunda Kuningan disebut pia-pia, di Jawa Tengah terutama daerah Pati juga disebut pia-pia, di Kota Semarang disebut badak, di wilayah eks Karesidenan Banyumas disebut sesuai nama aslinya bakwan, di kota dan kabupaten Malang disebut weci, di Sidoarjo, Surabaya disebut ote-ote dan di Situbondo disebut hongkong . Di Makassar bakwan disebut bikandoang. Bakwan mirip dengan masakan Jepang yasai tenpura (tempura sayur) dan pajeon Korea.Di kota Samarinda, bakwan biasa disebut dengan Ote-Ote.</item>
+        <item>
+            Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan, kemudian dibalurkan bumbu khas Bali yang dikenal dengan  base genep  di seluruh permukaan daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya. Daging ayam yang telah dibumbui kemudian direbus atau langsung dibakar hingga menghasilkan aroma yang khas. Aroma yang muncul disebabkan karena adanya pemanasan yang menyebabkan air dan lemak daging ikut menguap. Makin banyak uap yang dihasilkan, makin kuat dan enak aromanya.</item>
+        <item>
+            Lumpia atau terkadang dieja sebagai adalah sejenis jajanan tradisional Tionghoa. Lumpia yang dikenal oleh orang Indonesia merupakan lafal Bahasa Hokkian.Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut.Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dan Ujung Pandang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.</item>
+        <item>
+            Hamburger, atau hanya burger, adalah hidangan yang terdiri dari isian—biasanya patty daging giling, biasanya daging sapi—yang ditempatkan didalam irisan roti atau roti gulung. Roti sering disajikan dengan keju, selada, tomat, bawang bombay, acar, bacon atau cabai dengan bumbu seperti saus tomat, mustard, mayones, relish atau  saus spesial , seringkali merupakan variasi saus Pulau Seribu, dan sering diposting di roti biji wijen. Patty hamburger yang diberi keju disebut burger keju. Berdasarkan beberapa definisi, dan dalam beberapa budaya, burger dianggap sebagai sandwich.Hamburger biasanya diasosiasikan dengan restoran cepat saji dan tempat makan, namun juga dijual di berbagai restoran lain, termasuk restoran kelas atas yang lebih mahal. Ada banyak variasi hamburger internasional dan regional. Beberapa jaringan makanan cepat saji multinasional terbesar menjadikan burger sebagai salah satu produk inti mereka : McDonald s Big Mac dan Burger King s Whopper telah menjadi ikon global budaya Amerika.</item>
     </string-array>
 
     <string-array name="data_photo">
         <item>@drawable/nasi_goreng_photo</item>
         <item>@drawable/mie_goreng_photo</item>
         <item>@drawable/bakso_photo</item>
+        <item>@drawable/rendang_photo</item>
+        <item>@drawable/gulai_photo</item>
+        <item>@drawable/sate_lilit_photo</item>
+        <item>@drawable/bakwan_photo</item>
+        <item>@drawable/ayam_betutu_photo</item>
+        <item>@drawable/lumpia_photo</item>
+        <item>@drawable/burger_photo</item>
     </string-array>
 
-    <string-array name="additional_info">
 
+    <string-array name="additional_info">
         <item>
             Nasi goreng adalah makanan jalanan populer di Asia. Di beberapa negara Asia, restoran-restoran kecil, gerai-gerai pinggir jalan dan pedagang keliling mengkhususkan diri dalam menyajikan nasi goreng. Di kota-kota Indonesia, pedagang umum nasi goreng biasa ditemukan berpindah-pindah dengan gerobak makanan mereka dan berhenti di jalanan sibuk atau kawasan tempat tinggal. Beberapa gerai makanan Asia Tenggara menawarkan nasi goreng dengan pilihan rasa dan hidangan sampingan.
         </item>
@@ -44,23 +68,39 @@ Bakso sangat populer dan dapat ditemukan di seluruh Indonesia, dari gerobak peda
         </item>
         <item>
             Dalam proses pembuatannya, ada bakso yang dicampur dengan boraks atau bleng untuk membuat tepung menjadi lebih kenyal mirip daging serta lebih awet. Hal ini membuat bakso pernah dianggap makanan yang kurang aman oleh BPOM. BPOM mengingatkan bahwa mengonsumsi makanan berkadar boraks tinggi selama kurun 5-10 tahun dapat meningkatkan risiko kanker hati.Maka bakso yang dijual di berbagai pasar tradisional dan pasar swalayan diwajibkan bebas boraks.
-
-Karena bakso terbuat dari daging, maka sebaiknya bakso disimpan dalam kondisi beku sebelum direbus untuk dikonsumsi. Karena alasan itulah di supermarket bakso dijual dalam kondisi beku untuk menjaga temperatur agar bakso dapat terjaga kualitasnya dan tidak tercemar bakteri. Bakso yang dijual tetapi dipajang di etalase pada temperatur ruang rawan tercemar bakteri, misalnya bakteri penyebab diare atau salmonela penyebab tifus. Pilihlah bakso yang tengah direbus.
-
+            Karena bakso terbuat dari daging, maka sebaiknya bakso disimpan dalam kondisi beku sebelum direbus untuk dikonsumsi. Karena alasan itulah di supermarket bakso dijual dalam kondisi beku untuk menjaga temperatur agar bakso dapat terjaga kualitasnya dan tidak tercemar bakteri. Bakso yang dijual tetapi dipajang di etalase pada temperatur ruang rawan tercemar bakteri, misalnya bakteri penyebab diare atau salmonela penyebab tifus. Pilihlah bakso yang tengah direbus.
         </item>
+        <item>
+            Pada 2011, rendang pernah dinobatkan sebagai hidangan yang menduduki peringkat pertama daftar World 50 Most Delicious Foods (50 Hidangan Terlezat Dunia) versi CNN International.Pada 2018, rendang secara resmi ditetapkan sebagai salah satu dari lima hidangan nasional Indonesia.
+        </item>
+        <item>
+            Gulai adalah salah satu bumbu hidangan dasar yang paling dikenal dalam Masakan Minangkabau, kuah gulai yang berwarna kuning ini menjadi bumbu dan memberikan cita rasa bagi berbagai macam hidangan yang disajikan di rumah makan Padang. Kuah atau bumbu gulai biasanya kental dalam hidangan Minangkabau, Palembang, dan Aceh, akan tetapi di Jawa kuah gulai lebih cair menjadi semacam sup yang dihidangkan panas-panas yang berisi daging atau jeroan kambing.
+        </item>
+        <item>
+            Sebagai pulau dengan mayoritas pemeluk agama Hindu, daging babi atau ikan lebih menjadi pilihan, dan daging sapi awalnya jarang dikonsumsi di Bali. Namun untuk memenuhi konsumen yang tidak mengkonsumsi daging babi seperti warga Muslim, di rumah makan Bali yang berada di luar Bali, sate lilit sering menggunakan daging ayam atau sapi sebagai pengganti. Di pusat-pusat perikanan Bali, seperti desa Kusamba, yang menghadap ke Selat Nusa Penida, sate lilit yang terbuat dari ikan sangat disukai</item>
+        <item>
+            Kata bakwan sebenarnya berasal dari Tiongkok yang terlihat jelas pada kata bak yang berarti  daging  dan wan yang berarti  bola . Penggunaan kata bak  ini serupa dengan makanan lain yang memiliki asal dan bahan yang sama seperti bakpao (roti isi daging), bakso (bola daging), bakmi (mi daging), bakpia (kue daging kacang hijau), dan bacang (daging cacah).</item>
+        <item>
+            Menurut tradisi Bali, ayam betutu biasanya disajikan pada saat upacara adat seperti odalan, otonan, maupun pernikahan.Selain itu, betutu digunakan sebagai sajian pada upacara keagamaan dan upacara adat serta sebagai hidangan dan dijual. Konsumennya tidak hanya masyarakat Bali, tetapi juga tamu mancanegara yang datang ke Bali, khususnya pada tempat-tempat tertentu seperti di hotel dan rumah makan atau restoran</item>
+        <item>
+            Gulungan berbentuk silinder berwarna emas ini melambangkan kekayaan dan merupakan emas batangan. Lumpia merupakan hidangan yang wajib ada selama Festival Musim Semi di Tiongkok karena dipercaya akan mendatangkan kekayaan dan kemakmuran .</item>
+        <item>
+            Hamburger mentah mungkin mengandung bakteri berbahaya yang bisa menyebabkan penyakit bawaan makanan seperti Escherichia coli O157:H7, karena kadang-kadang proses penyiapan daging yang tidak tepat, sehingga diperlukan kehati-hatian saat menangani dan memasak. Karena potensi penyakit yang ditularkan melalui makanan, USDA merekomendasikan hamburger dimasak dengan suhu internal 160 F ( 71 C ). Jika dimasak di suhu tersebut, maka dianggap matang.</item>
     </string-array>
 
     <string-array name="recipe">
-        <item>
-            "https://cookpad.com/id/cari/nasi%20goreng"
-        </item>
-        <item>
-            "https://cookpad.com/id/cari/mie%20goreng"
-        </item>
-        <item>
-            "https://cookpad.com/id/cari/bakso"
-        </item>
+        <item>"https://cookpad.com/id/cari/nasi%20goreng"</item>
+        <item>"https://cookpad.com/id/cari/mie%20goreng"</item>
+        <item>"https://cookpad.com/id/cari/bakso"</item>
+        <item>"https://cookpad.com/id/cari/rendang"</item>
+        <item>"https://cookpad.com/id/cari/gulai"</item>
+        <item>"https://cookpad.com/id/cari/sate%20lilit"</item>
+        <item>"https://cookpad.com/id/cari/bakwan"</item>
+        <item>"https://cookpad.com/id/cari/betutu"</item>
+        <item>"https://cookpad.com/id/cari/lumpia"</item>
+        <item>"https://cookpad.com/id/cari/hamburger"</item>
     </string-array>
+
 
 
 </resources>
