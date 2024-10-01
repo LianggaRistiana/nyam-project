@@ -7,6 +7,8 @@
     <color name="lightBackground">#F3F3F3</color>
     <color name="darkBackground">#1E1E1E</color>
 
+    <color name="primaryDarkMode">#F2A44C</color>
+
     <color name="textContent">#767982</color>
 
 </resources>

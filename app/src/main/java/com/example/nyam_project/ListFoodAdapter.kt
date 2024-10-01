@@ -11,6 +11,7 @@ class ListFoodAdapter(private val listFood: ArrayList<Food>, private val onItemC
             binding.tvTitle.text = food.title
             binding.tvdesc.text = food.desc
             binding.imgItem.setImageResource(food.photo)
+
             itemView.setOnClickListener {
                 onItemClick(food)
             }

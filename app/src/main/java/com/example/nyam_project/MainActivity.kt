@@ -1,5 +1,6 @@
 package com.example.nyam_project
 
+import android.content.Intent
 import android.content.res.Configuration
 import android.os.Bundle
 import android.widget.Toast
@@ -31,8 +32,9 @@ class MainActivity : AppCompatActivity() {
             binding.rvFoods.layoutManager = LinearLayoutManager(this)
         }
         val foodAdapter = ListFoodAdapter(listFood) {
-            Toast.makeText(this, "Kamu memilih " + it.title, Toast.LENGTH_SHORT).show()
-
+            val foodDetailIntent = Intent(this@MainActivity, FoodDetailActivity::class.java)
+                foodDetailIntent.putExtra(FoodDetailActivity.EXTRA_FOOD, it)
+            startActivity(foodDetailIntent)
         }
         binding.rvFoods.adapter = foodAdapter
     }
@@ -40,11 +42,13 @@ class MainActivity : AppCompatActivity() {
     private fun getListOfFood(): ArrayList<Food> {
         val dataTitle = resources.getStringArray(R.array.data_title)
         val dataDesc = resources.getStringArray(R.array.data_desc)
+        val dataAdditionalInfo = resources.getStringArray(R.array.additional_info)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
+        val dataRecipeLink = resources.getStringArray(R.array.recipe)
         val listFood = ArrayList<Food>()
 
         for (i in dataTitle.indices){
-            val food = Food(dataTitle[i], dataDesc[i], dataPhoto.getResourceId(i, -1))
+            val food = Food(dataTitle[i], dataDesc[i], dataPhoto.getResourceId(i, -1), dataAdditionalInfo[i], dataRecipeLink[i])
             listFood.add(food)
         }
 //        dataTitle.indices.forEach {

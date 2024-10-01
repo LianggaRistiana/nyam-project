@@ -1,19 +1,30 @@
 <resources>
-    <string name="app_name">nyam-project</string>
+    <string name="app_name">NewTaste</string>
     <string name="card_name">card name</string>
     <string name="card_desc">card description name</string>
+    <string name="recipe">Recipe</string>
+    <string name="additional_info">Additional Info</string>
 
     <string-array name="data_title">
         <item>Nasi Goreng</item>
+        <item>Mie Goreng</item>
         <item>Bakso</item>
-        <item>Mie Ayam</item>
+        <item>Rendang</item>
+        <item>Gulai</item>
+        <item>Sate Lilit</item>
+        <item>Bakwan</item>
+        <item>Ayam Betutu</item>
+        <item>Lumpia</item>
+        <item>Burger</item>
     </string-array>
 
     <string-array name="data_desc">
-        <item>Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk</item>
-        <item>Mi goreng berarti "mi yang digoreng" adalah hidangan mi yang dimasak dengan digoreng tumis khas Indonesia. Mi goreng juga populer dan juga digemari di Malaysia, dan Singapura.
+        <item>Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis. Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu. Sebagai hidangan buatan rumah, nasi goreng biasanya dibuat dengan bahan-bahan yang tersisa dari hidangan lainnya, yang berujung pada ragam yang tak terbatas. Menjadi penopang ekonomi, hal yang sama juga terjadi pada mi goreng atau pyttipanna
         </item>
-        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang, kambing, bahkan daging kerbau.
+        <item>Mi goreng berarti "mi yang digoreng" adalah hidangan mi yang dimasak dengan digoreng tumis khas Indonesia. Mi goreng juga populer dan juga digemari di Malaysia, dan Singapura. Mi goreng terbuat dari mi kuning yang digoreng dengan sedikit minyak goreng, dan ditambahkan bawang putih, bawang merah, udang serta daging ayam atau daging sapi, irisan bakso, cabai, sayuran, tomat, telur ayam, dan acar. Makanan ini sangat populer dan dapat ditemui di mana-mana di Indonesia, mulai dari pedagang pinggir jalan (kaki lima) sampai restoran mewah. Mi goreng juga dapat ditemukan di warung mamak di Malaysia dan Singapura.
+        </item>
+        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang, kambing, bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur lalu ditaburi bawang goreng dan seledri.
+Bakso sangat populer dan dapat ditemukan di seluruh Indonesia, dari gerobak pedagang kaki lima hingga restoran besar. Berbagai jenis bakso sekarang banyak ditawarkan dalam bentuk makanan beku yang dijual di pasar swalayan ataupun mal-mal. Irisan bakso dapat juga dijadikan pelengkap jenis makanan lain seperti mi goreng, nasi goreng, sop atau capcai.
         </item>
     </string-array>
 
@@ -21,6 +32,34 @@
         <item>@drawable/nasi_goreng_photo</item>
         <item>@drawable/mie_goreng_photo</item>
         <item>@drawable/bakso_photo</item>
+    </string-array>
+
+    <string-array name="additional_info">
+
+        <item>
+            Nasi goreng adalah makanan jalanan populer di Asia. Di beberapa negara Asia, restoran-restoran kecil, gerai-gerai pinggir jalan dan pedagang keliling mengkhususkan diri dalam menyajikan nasi goreng. Di kota-kota Indonesia, pedagang umum nasi goreng biasa ditemukan berpindah-pindah dengan gerobak makanan mereka dan berhenti di jalanan sibuk atau kawasan tempat tinggal. Beberapa gerai makanan Asia Tenggara menawarkan nasi goreng dengan pilihan rasa dan hidangan sampingan.
+        </item>
+        <item>
+            Di Malaysia, sajian mi ini bisa Anda temukan di pasar, atau di pinggir jalan. Mereka dijual oleh pedagang kaki lima atau pedagang asongan, terutama orang India-Malaysia
+        </item>
+        <item>
+            Dalam proses pembuatannya, ada bakso yang dicampur dengan boraks atau bleng untuk membuat tepung menjadi lebih kenyal mirip daging serta lebih awet. Hal ini membuat bakso pernah dianggap makanan yang kurang aman oleh BPOM. BPOM mengingatkan bahwa mengonsumsi makanan berkadar boraks tinggi selama kurun 5-10 tahun dapat meningkatkan risiko kanker hati.Maka bakso yang dijual di berbagai pasar tradisional dan pasar swalayan diwajibkan bebas boraks.
+
+Karena bakso terbuat dari daging, maka sebaiknya bakso disimpan dalam kondisi beku sebelum direbus untuk dikonsumsi. Karena alasan itulah di supermarket bakso dijual dalam kondisi beku untuk menjaga temperatur agar bakso dapat terjaga kualitasnya dan tidak tercemar bakteri. Bakso yang dijual tetapi dipajang di etalase pada temperatur ruang rawan tercemar bakteri, misalnya bakteri penyebab diare atau salmonela penyebab tifus. Pilihlah bakso yang tengah direbus.
+
+        </item>
+    </string-array>
+
+    <string-array name="recipe">
+        <item>
+            "https://cookpad.com/id/cari/nasi%20goreng"
+        </item>
+        <item>
+            "https://cookpad.com/id/cari/mie%20goreng"
+        </item>
+        <item>
+            "https://cookpad.com/id/cari/bakso"
+        </item>
     </string-array>
 
 
