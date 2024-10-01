@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">nyam-project</string>
+    <string name="card_name">card name</string>
+    <string name="card_desc">card description name</string>
+
+    <string-array name="data_name">
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Mie Ayam</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah hidangan mi yang dimasak dengan digoreng tumis khas Indonesia. Mi goreng juga populer dan juga digemari di Malaysia, dan Singapura.
+        </item>
+        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang, kambing, bahkan daging kerbau.
+        </item>
+    </string-array>
+
+
+
 </resources>
