@@ -5,6 +5,12 @@
     <string name="recipe">Recipe</string>
     <string name="additional_info">Additional Info</string>
     <string name="new_taste">New Taste</string>
+    <string name="liangga_ristiana">Liangga Ristiana</string>
+    <string name="email">liangga4@gmail.com</string>
+    <string name="about_me">I\'m an undergraduate college student majoring in Information Technology at Udayana University with a
+keen interest in both mobile and web development. I find great excitement in mastering Next.js, Node.js,
+and React for web development, as well as Flutter for mobile development. My passion for creating
+innovative and efficient digital solutions drives my continuous learning and growth in the tech industry</string>
 
     <string-array name="data_title">
         <item>Nasi Goreng</item>
@@ -101,7 +107,6 @@
         <item>"https://cookpad.com/id/cari/lumpia"</item>
         <item>"https://cookpad.com/id/cari/hamburger"</item>
     </string-array>
-
 
 
 </resources>

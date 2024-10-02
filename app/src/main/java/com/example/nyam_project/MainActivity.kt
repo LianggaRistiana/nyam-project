@@ -23,6 +23,11 @@ class MainActivity : AppCompatActivity() {
         binding.rvFoods.setHasFixedSize(true)
         listFood.addAll(getListOfFood())
         showRecyclerList()
+
+        binding.btnAbout.setOnClickListener {
+            val aboutIntent = Intent(this@MainActivity, AboutActivity::class.java)
+            startActivity(aboutIntent)
+        }
     }
 
     private fun showRecyclerList() {

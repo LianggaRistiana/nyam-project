@@ -20,7 +20,7 @@
             android:id="@+id/imageView"
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
             android:layout_marginTop="8dp"
             android:src="@drawable/logo_nyam"
             app:tint="?attr/colorSurface" />
@@ -41,7 +41,7 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:layout_alignParentEnd="true"
-            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
             android:layout_marginTop="12dp"
             android:layout_marginEnd="16dp"
             android:src="@drawable/ic_info"
