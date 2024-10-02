@@ -5,14 +5,15 @@ import android.net.Uri
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.net.toUri
 import com.example.nyam_project.databinding.ActivityFoodDetailBinding
 
 class FoodDetailActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFoodDetailBinding
+    private lateinit var shareMessage: String
 
     companion object {
         const val EXTRA_FOOD = "extra_food"
+        const val SHARE_MESSAGE = "Bagikan Artikel"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -24,14 +25,23 @@ class FoodDetailActivity : AppCompatActivity() {
 
         val food =
             if (android.os.Build.VERSION.SDK_INT >= 33) {
-                intent.getParcelableExtra<Food>(EXTRA_FOOD)
+                intent.getParcelableExtra(EXTRA_FOOD,Food::class.java)
             } else {
                 @Suppress("DEPRECATION") intent.getParcelableExtra<Food>(EXTRA_FOOD)
             }
 
         binding.fabRecipe.setOnClickListener {
-            Toast.makeText(this, "Recipe button clicked", Toast.LENGTH_SHORT).show()
+//            Toast.makeText(this, "Sesuaikan Selera anda!", Toast.LENGTH_SHORT).show()
             openLinkIntent.data?.let { startActivity(openLinkIntent) }
+        }
+
+        binding.fabShare.setOnClickListener {
+            val shareIntent = Intent().apply {
+                action = Intent.ACTION_SEND
+                putExtra(Intent.EXTRA_TEXT, shareMessage)
+                type = "text/plain"
+            }
+            startActivity(Intent.createChooser(shareIntent, SHARE_MESSAGE))
         }
 
         food?.let {
@@ -40,6 +50,17 @@ class FoodDetailActivity : AppCompatActivity() {
             binding.tvDesc.text = it.desc
             binding.tvAdditionalDesc.text = it.additionalInfo
             openLinkIntent.setData(Uri.parse(it.recipeLink))
+            shareMessage =
+                """
+                    ${it.title}
+                    ${it.desc}
+                    
+                    ${it.additionalInfo}
+                    here for the recepe : ${it.recipeLink}
+                    
+                    Tertanda,
+                    NewTaste - Nyam Project Team
+                """.trimIndent()
         }
     }
 }

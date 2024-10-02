@@ -4,6 +4,7 @@
     <string name="card_desc">card description name</string>
     <string name="recipe">Recipe</string>
     <string name="additional_info">Additional Info</string>
+    <string name="new_taste">New Taste</string>
 
     <string-array name="data_title">
         <item>Nasi Goreng</item>
